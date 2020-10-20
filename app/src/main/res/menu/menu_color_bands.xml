@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/color_black"
+        android:orderInCategory="100"
+        android:title="@string/color_black" />
+    <item
+        android:id="@+id/color_brown"
+        android:orderInCategory="100"
+        android:title="@string/color_brown" />
+    <item
+        android:id="@+id/color_red"
+        android:orderInCategory="100"
+        android:title="@string/color_red" />
+    <item
+        android:id="@+id/color_orange"
+        android:orderInCategory="100"
+        android:title="@string/color_orange" />
+    <item
+        android:id="@+id/color_yellow"
+        android:orderInCategory="100"
+        android:title="@string/color_yellow" />
+    <item
+        android:id="@+id/color_green"
+        android:orderInCategory="100"
+        android:title="@string/color_green" />
+    <item
+        android:id="@+id/color_blue"
+        android:orderInCategory="100"
+        android:title="@string/color_blue" />
+    <item
+        android:id="@+id/color_violet"
+        android:orderInCategory="100"
+        android:title="@string/color_violet" />
+    <item
+        android:id="@+id/color_grey"
+        android:orderInCategory="100"
+        android:title="@string/color_grey" />
+    <item
+        android:id="@+id/color_white"
+        android:orderInCategory="100"
+        android:title="@string/color_white" />
+    <item
+        android:id="@+id/color_gold"
+        android:orderInCategory="100"
+        android:title="@string/color_gold" />
+    <item
+        android:id="@+id/color_silver"
+        android:orderInCategory="100"
+        android:title="@string/color_silver" />
+    <item
+        android:id="@+id/color_none"
+        android:orderInCategory="100"
+        android:title="@string/color_none" />
+
+
+
+
+</menu>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Resistor Calc</string>
+    <string name="large_text">
+        Enter resistor colors:
+    </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="color_black"><font fgcolor='#000000'>Black</font></string>
+    <string name="color_brown"><font fgcolor='#A52A2A'>Brown</font></string>
+    <string name="color_red"><font fgcolor='#FF0000'>Red</font></string>
+    <string name="color_orange"><font fgcolor='#FFA500'>Orange</font></string>
+    <string name="color_yellow"><font fgcolor='#FFFF00'>Yellow</font></string>
+    <string name="color_green"><font fgcolor='#00FF00'>Green</font></string>
+    <string name="color_blue"><font fgcolor='#0000FF'>Blue</font></string>
+    <string name="color_violet"><font fgcolor='#EE82EE'>Violet</font></string>
+    <string name="color_grey"><font fgcolor='#808080'>Grey</font></string>
+    <string name="color_white"><font fgcolor='#D3D3D3'>White</font></string>
+    <string name="color_gold"><font fgcolor='#FFD700'>Gold</font></string>
+    <string name="color_silver"><font fgcolor='#C0C0C0'>Silver</font></string>
+    <string name="color_none"><font fgcolor='#707070'>None</font></string>
+
+    <string name="omega">Ω</string>
+    <string name="kohms">KΩ</string>
+    <string name="mohms">MΩ</string>
+    <string name="ohms">ohms</string>
+    <string name="maxmin">min/max</string>
+    <string name="pic_description">Picture of resistor</string>
+    <string name="calculate">Calculate</string>
+    <string name="credit">Made by Michael Wdowiak</string>
+</resources>
